@@ -9,10 +9,6 @@ Every line of code is a step toward teaching machines the art of seeing the worl
 
 ## 📊 GitHub Realm
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amkharazi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amkharazi&layout=compact&theme=tokyonight)
-
 ![Streak Stats](https://streak-stats.demolab.com?user=amkharazi&theme=tokyonight)
 
 ---
